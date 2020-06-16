@@ -1,0 +1,27 @@
+{
+  "name": "edgeui",
+  "version": "0.0.1",
+  "description": "a enterprise style UI library",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilugirl/edgeUI.git"
+  },
+  "keywords": [
+    "css",
+    "library"
+  ],
+  "author": "liuyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lilugirl/edgeUI/issues"
+  },
+  "homepage": "https://github.com/lilugirl/edgeUI#readme"
+}
