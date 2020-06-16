@@ -1,2 +1,3 @@
-# edgeUI
-a enterprise style css UI library 
+# Edge Next UI
+
+a enterprise style css UI library
